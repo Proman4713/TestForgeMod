@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "${mod_id} resources",
+    "description": "Test Forge Mod resources",
     "pack_format": 55
   }
 }
