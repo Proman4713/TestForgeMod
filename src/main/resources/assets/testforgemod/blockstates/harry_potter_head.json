@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "testforgemod:block/harry_potter_head", "y": 0 },
-    "facing=south": { "model": "testforgemod:block/harry_potter_head", "y": 180 },
-    "facing=east": { "model": "testforgemod:block/harry_potter_head", "y": 90 },
-    "facing=west": { "model": "testforgemod:block/harry_potter_head", "y": 270 }
-  }
-}

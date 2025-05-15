@@ -68,6 +68,10 @@ public class TestForgeMod {
 		if (event.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS) {
 			event.accept(ModBlocks.HARRY_POTTER_HEAD);
 		}
+
+		if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+			event.accept(ModItems.PHOENIX_FEATHER);
+		}
 	}
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

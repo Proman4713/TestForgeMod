@@ -1,8 +1,13 @@
 {
 	"item.testforgemod.standard_ollivanders_wand": "Standard Ollivander's Wand",
+	"item.testforgemod.phoenix_feather": "Phoenix Feather",
 
 	"block.testforgemod.harry_potter_head": "Harry Potter Head",
 	"item.testforgemod.harry_potter_head": "Harry Potter Head",
+
+	"tooltip.testforgemod.ollivanders_wand.expelliarmus": "Right click on air/water: Disarms all entities within a range of 10 blocks. Attack: Disarm target. (§4§lexpelliarmus!§r)",
+	"tooltip.testforgemod.ollivanders_wand.lumos": "Right click on block: Spawn a light block (§7§llumos!§r). Press §eShift§r to view secondary ability.",
+	"tooltip.testforgemod.phoenix_feather": "Phoenix core, used to craft wands or cook food for an incredibly long time.",
 
 	"creativetab.testforgemod.wizarding_world": "The Wizarding World!"
 }

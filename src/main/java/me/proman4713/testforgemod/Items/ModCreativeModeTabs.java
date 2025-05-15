@@ -22,6 +22,7 @@ public class ModCreativeModeTabs {
 					.displayItems((pParameters, pOutput) -> {
 						pOutput.accept(ModItems.STANDARD_OLLIVANDERS_WAND.get());
 						pOutput.accept(ModBlocks.HARRY_POTTER_HEAD.get());
+						pOutput.accept(ModItems.PHOENIX_FEATHER.get());
 					}).build());
 
 	public static void register(IEventBus eventBus) {
