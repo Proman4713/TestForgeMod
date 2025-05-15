@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "testforgemod:item/wand"
+		"layer0": "testforgemod:item/standard_ollivanders_wand"
 	}
 }

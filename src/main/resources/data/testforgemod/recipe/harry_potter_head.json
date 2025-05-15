@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"A": "minecraft:soul_sand",
+		"B": "minecraft:leather",
+		"C": "minecraft:nether_star"
+	},
+	"pattern": [
+		"BCB",
+		"BAB",
+		"BBB"
+	],
+	"result": {
+		"count": 1,
+		"id": "testforgemod:harry_potter_head"
+	}
+}

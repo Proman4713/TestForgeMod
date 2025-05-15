@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"north": "testforgemod:block/harry_potter_head_front",
+		"south": "testforgemod:block/harry_potter_head_back",
+		"east": "testforgemod:block/harry_potter_head_right",
+		"west": "testforgemod:block/harry_potter_head_left",
+		"up": "testforgemod:block/harry_potter_head_top",
+		"down": "testforgemod:block/harry_potter_head_bottom",
+		"particle": "testforgemod:block/harry_potter_head_front"
+	}
+}

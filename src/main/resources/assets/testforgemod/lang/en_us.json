@@ -1,3 +1,8 @@
 {
-	"item.testforgemod.wand": "Wand"
-  }
+	"item.testforgemod.standard_ollivanders_wand": "Standard Ollivander's Wand",
+
+	"block.testforgemod.harry_potter_head": "Harry Potter Head",
+	"item.testforgemod.harry_potter_head": "Harry Potter Head",
+
+	"creativetab.testforgemod.wizarding_world": "The Wizarding World!"
+}
